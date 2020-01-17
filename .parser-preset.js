@@ -13,5 +13,6 @@ Variations of regex
 
 ^\[(\w*)\]\((\d|[S\/N]+)\):(.*)$ = Ex. [NOVO](2): tESTE   or [NOVO](S/N): tESTE
 
+/^\[(\w*)\] - @([d.\d.\d]+) - (.*)$/ : Ex. [NOVO] - @0.0.0 - VERSAO DE RELEASE
 
 */
